@@ -1,2 +1,2 @@
-# bushrasms
-Schools Management System.
+# Bushra School Management System
+
